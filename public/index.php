@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Clyde - Free Bootstrap 4 Template by Colorlib</title>
+	<title>Paphat Aupaka</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	
@@ -23,20 +23,20 @@
 	
 	<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light site-navbar-target" id="ftco-navbar">
 		<div class="container">
-			<a class="navbar-brand" href="index.html">Clyde<span>.</span></a>
+			<a class="navbar-brand" href="index.html">RESUME<span>.</span></a>
 			<button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="oi oi-menu"></span> Menu
 			</button>
 
 			<div class="collapse navbar-collapse" id="ftco-nav">
 				<ul class="navbar-nav nav ml-auto">
-					<li class="nav-item"><a href="#home-section" class="nav-link"><span>Home</span></a></li>
-					<li class="nav-item"><a href="#about-section" class="nav-link"><span>About</span></a></li>
-					<li class="nav-item"><a href="#skills-section" class="nav-link"><span>Skills</span></a></li>
-					<li class="nav-item"><a href="#services-section" class="nav-link"><span>Services</span></a></li>
-					<li class="nav-item"><a href="#projects-section" class="nav-link"><span>Projects</span></a></li>
-					<li class="nav-item"><a href="#blog-section" class="nav-link"><span>Blog</span></a></li>
-					<li class="nav-item"><a href="#contact-section" class="nav-link"><span>Contact</span></a></li>
+					<li class="nav-item"><a href="#home-section" class="nav-link"><span>PROFILE</span></a></li>
+					<li class="nav-item"><a href="#about-section" class="nav-link"><span>JOB & EXPERIENCE</span></a></li>
+					<li class="nav-item"><a href="#skills-section" class="nav-link"><span>SKILL</span></a></li>
+					<li class="nav-item"><a href="#services-section" class="nav-link"><span>TRAINING & CERTIFICATE</span></a></li>
+					<li class="nav-item"><a href="#projects-section" class="nav-link"><span>DOCUMENT</span></a></li>
+					<li class="nav-item"><a href="#blog-section" class="nav-link"><span>PERSONAL HABITS</span></a></li>
+					<!-- <li class="nav-item"><a href="#contact-section" class="nav-link"><span>Contact</span></a></li> -->
 				</ul>
 			</div>
 		</div>
@@ -53,9 +53,14 @@
 						</div>
 						<div class="one-forth d-flex  align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
 							<div class="text">
-								<span class="subheading">Hello! This is Clyde</span>
-								<h1 class="mb-4 mt-3">Creative <span>UI/UX</span> Designer &amp; Developer</h1>
-								<p><a href="#" class="btn btn-primary">Hire me</a> <a href="#" class="btn btn-primary btn-outline-primary">Download CV</a></p>
+								<span class="subheading">Hello! This is Paphat</span>
+								<h1 class="mb-4 mt-3">Developer <span> &amp; Ontleder</span></h1>
+								<h2 class="mb-4 mt-3">System develop &amp; System Analytic(SA) </span><br>
+								Front-End <span> &amp; Back-End ( Full Etack ) </span><br>
+								Web Design, Web Application, Web API </span>
+							</h2>
+								
+								<p><a href="#" class="btn btn-primary btn-outline-primary">Download CV</a></p>
 							</div>
 						</div>
 					</div>
@@ -74,7 +79,7 @@
 							<div class="text">
 								<span class="subheading">We Design &amp; Build Brands</span>
 								<h1 class="mb-4 mt-3">Hi, I am <span>Clyde</span> This is my favorite work.</h1>
-								<p><a href="#" class="btn btn-primary">Hire me</a> <a href="#" class="btn btn-primary btn-outline-primary">Download CV</a></p>
+								<p><a href="#" class="btn btn-primary btn-outline-primary">Download CV</a></p>
 							</div>
 						</div>
 					</div>
@@ -84,49 +89,49 @@
 	</section>
 
 	<section class="ftco-counter img bg-light" id="section-counter">
-		<div class="container">
+		<div style="margin-left: 5%; margin-right:10%;">
 			<div class="row">
-				<div class="col-md-3 justify-content-center counter-wrap ftco-animate">
-					<div class="block-18 d-flex">
-						<div class="icon d-flex justify-content-center align-items-center">
-							<span class="flaticon-suitcase"></span>
-						</div>
-						<div class="text">
-							<strong class="number" data-number="750">0</strong>
-							<span>Project Complete</span>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 justify-content-center counter-wrap ftco-animate">
+				
+				<div class="col-md-4 justify-content-center counter-wrap ftco-animate">
 					<div class="block-18 d-flex">
 						<div class="icon d-flex justify-content-center align-items-center">
 							<span class="flaticon-loyalty"></span>
 						</div>
 						<div class="text">
-							<strong class="number" data-number="568">0</strong>
-							<span>Happy Clients</span>
+							<!-- <strong class="number" data-number="568">0</strong> -->
+							<a href="https://www.nu.ac.th/" target="blank"><strong  class="number">Naresuan University</strong></a>
+							<span>MSc. in Computer Science
+GPA. 3.18 ( 2012 - 2017 )</span>
+							
 						</div>
 					</div>
 				</div>
-				<div class="col-md-3 justify-content-center counter-wrap ftco-animate">
+				<div class="col-md-4 justify-content-center counter-wrap ftco-animate">
 					<div class="block-18 d-flex">
 						<div class="icon d-flex justify-content-center align-items-center">
-							<span class="flaticon-coffee"></span>
+							<span class="flaticon-loyalty"></span>
 						</div>
 						<div class="text">
-							<strong class="number" data-number="478">0</strong>
-							<span>Cups of coffee</span>
+							<!-- <strong class="number" data-number="568">0</strong> -->
+							<a href="https://www.nu.ac.th/" target="blank"><strong  class="number">Naresuan University</strong></a>
+							<span>BSc. in Computer Science
+GPA. 3.02 ( 2007 - 2011 )</span>
+							
 						</div>
 					</div>
 				</div>
-				<div class="col-md-3 justify-content-center counter-wrap ftco-animate">
+				<div class="col-md-4 justify-content-center counter-wrap ftco-animate">
 					<div class="block-18 d-flex">
 						<div class="icon d-flex justify-content-center align-items-center">
-							<span class="flaticon-calendar"></span>
+							<span class="flaticon-loyalty"></span>
 						</div>
 						<div class="text">
-							<strong class="number" data-number="780">0</strong>
-							<span>Years experienced</span>
+							<!-- <strong class="number" data-number="568">0</strong> -->
+							<a href="https://www.nongphai.ac.th/web/" target="blank"><strong  class="number">Nongphai School</strong></a>
+							<span>Science & Mathematics
+GPA. 3.45 ( 2003 - 2006 )
+</span>
+							
 						</div>
 					</div>
 				</div>
@@ -747,7 +752,7 @@
 		</div>
 	</section>
 
-	<section class="ftco-section contact-section ftco-no-pb" id="contact-section">
+	<!-- <section class="ftco-section contact-section ftco-no-pb" id="contact-section">
 		<div class="container">
 			<div class="row justify-content-center mb-5 pb-3">
 				<div class="col-md-7 heading-section text-center ftco-animate">
@@ -826,11 +831,11 @@
 							</div>
 						</div>
 					</div>
-					<!-- <div id="map" class="map"></div> -->
+			
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 	
 
 	<footer class="ftco-footer ftco-section">
